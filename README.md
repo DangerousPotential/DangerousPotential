@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Add your social links inside this section if available -->
-  <a href="www.linkedin.com/in/kim-wee-teh-963b9726a" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/kim-wee-teh-963b9726a" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://github.com/dangerouspotential" target="_blank" rel="noreferrer">
